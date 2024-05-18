@@ -3,7 +3,7 @@
     // php -r "echo password_hash('yourstrongpassword', PASSWORD_DEFAULT );"
     // using above command create a new password hash for your password and
     // replace here.
-    $PASSWD = 'bdc5c3a8cab106acd5a52f7cb63e22f1'; 
+    $PASSWD = '58a4877275bc80748fba64377c58b06d'; 
 ?>
 
 <!DOCTYPE html>
