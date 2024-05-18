@@ -1,6 +1,6 @@
 <?php 
     session_start();
-    // php -r "echo password_hash('yourstrongpassword', PASSWORD_DEFAULT );"
+    // php -r "echo password_hash('7da9d87632f1a81d227d5e14857cbc6e', PASSWORD_DEFAULT );"
     // using above command create a new password hash for your password and
     // replace here.
     $PASSWD = '7da9d87632f1a81d227d5e14857cbc6e'; 
